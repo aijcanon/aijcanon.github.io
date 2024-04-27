@@ -1,6 +1,6 @@
 # Ij.start.canon
 
-[![ij.start.canon](gett-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](gett-started.png)](https://can.printredir.com)
 
 Canon Ij.start.canon Setup uses two cartridges to print and copy documents. Install the black cartridge and the color cartridge to start printing. Its printing speed is 7.7 ppm, and it works with Windows and Mac operating systems.
 
